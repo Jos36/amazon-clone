@@ -1,3 +1,16 @@
+# Fullstack project
+## Tecnologies
+* React JS
+* React context
+* Firebase Functions
+* Firebase Auth
+* node.js 
+* express
+* Stripe
+
+# Live demo
+[here](https://clone-8cfa0.web.app/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
